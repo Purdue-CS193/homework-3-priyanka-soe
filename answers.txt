@@ -3,7 +3,7 @@ HI, this is a message to myself.
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
-
+Git fetch gets ("fetches") any new information from the remote server (Github) and updates it in our local server. 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+Git represents our local repository on our own machine that we can write changes to, while Github is the central repository anyone on the project can access / write changes to.
